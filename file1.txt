@@ -3,3 +3,5 @@ This line is written in main branch
 This line is written in feature2
 
 This line also written in feature2
+
+This line also written in feature2 as commit 3

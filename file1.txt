@@ -11,4 +11,4 @@ This line also written in feature2
 
 This line also written in feature2 as commit 3
 
-This line is feature 4 commit 1
+This line is feature4 commit 1
